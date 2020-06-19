@@ -18,11 +18,7 @@ import com.fasterxml.jackson.databind.JavaType;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-/**
- * @author liang.li
- * @version 1.0
- * @date 2012.3.13
- */
+
 public class JsonUtil {
 
     private static final ObjectMapper mObjectMapper = new ObjectMapper();
